@@ -1,0 +1,10 @@
+img{width: 400px;}
+#thirdDiv{width: 500px; height: 600px;background-color:red ;padding: 50px;border-style: double;border-width: 10px;}
+#spanId{font-size: 18px; margin: 50px;}
+
+html{background: url(https://ak.picdn.net/shutterstock/videos/14021645/thumb/1.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}

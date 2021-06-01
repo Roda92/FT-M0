@@ -2,9 +2,11 @@ img{width: 400px;}
 #thirdDiv{width: 500px; height: 600px;background-color:red ;padding: 50px;border-style: double;border-width: 10px;}
 #spanId{font-size: 18px; margin: 50px;}
 
-html{background: url(https://ak.picdn.net/shutterstock/videos/14021645/thumb/1.jpg) no-repeat center center fixed;
+html{background: url(https://images.unsplash.com/photo-1556911220-bff31c812dba?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8a2l0Y2hlbnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
 }
+
+div{text-align: center;}
